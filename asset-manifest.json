@@ -10,6 +10,6 @@
   },
   "entrypoints": [
     "static/css/main.6ee70c16.css",
-    "static/js/main.e25aba69.js"
+    "/react/index.html"
   ]
 }
